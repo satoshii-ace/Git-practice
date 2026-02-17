@@ -1,3 +1,3 @@
 Hello Git
 Learning Git basics
-Edit from GitHub
+Edit from GitHub Fetch
